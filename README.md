@@ -1,2 +1,2 @@
 # notes
-### a repo for note pic
+### a repo for image host
