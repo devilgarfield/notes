@@ -11,11 +11,11 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225922/index.m3u8
 http://111.40.196.9/PLTV/88888888/224/3221225588/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV4
 http://39.135.230.80/ott.fj.chinamobile.com/PLTV/88888888/224/3221225802/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV5 8M1080
+#EXTINF:-1 group-title="央视",CCTV5
 http://39.135.138.58:18890/PLTV/88888888/224/3221225752/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV5+ 4M1080
+#EXTINF:-1 group-title="央视",CCTV5+
 http://112.50.243.8/PLTV/88888888/224/3221225821/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV6 8M1080
+#EXTINF:-1 group-title="央视",CCTV6
 http://219.151.31.35/liveplay-kk.rtxapp.com/live/program/live/cctv6hd/2300000/mnf.m3u8
 #EXTINF:-1 group-title="央视",CCTV7
 http://112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8
@@ -249,10 +249,6 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221226760/index.m3u8?servicetype=1
 http://39.135.55.105:6610/PLTV/88888888/224/3221227066/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="福建",南平2 8M1080
 http://39.135.55.105:6610/PLTV/88888888/224/3221226956/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视",CCTV1 720
-http://39.135.55.105:6610/PLTV/88888888/224/3221225812/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视",CCTV1 720
-http://39.135.55.105:6610/PLTV/88888888/224/3221226624/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="CGTN",CGTN 3.5M576
 http://39.135.55.105:6610/PLTV/88888888/224/3221225822/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="CGTN",CGTN 576
