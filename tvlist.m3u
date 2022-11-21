@@ -3,92 +3,40 @@
 http://39.135.55.105:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="凤凰",凤凰资讯 8M1080
 http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视",CCTV1 4M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221225829/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视",CCTV1 4M1080HEVC
-http://39.135.55.105:6610/PLTV/88888888/224/3221227014/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视",CCTV1 7M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221226599/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视",CCTV1 8M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221225922/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视",CCTV1 8M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221226908/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视",CCTV1 8M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221226995/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视",CCTV2 4M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221225800/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视",CCTV2 4M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221226795/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视",CCTV2 8M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221225923/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视",CCTV2 8M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221226915/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视",CCTV3 7M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221227055/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视",CCTV4 7M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221225802/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视",CCTV4 8M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221226968/index.m3u8?servicetype=1
+#EXTINF:-1 group-title="央视",CCTV1
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225922/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV2
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225922/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV3
+http://111.40.196.9/PLTV/88888888/224/3221225588/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV4
+http://39.135.230.80/ott.fj.chinamobile.com/PLTV/88888888/224/3221225802/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV5 8M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221227170/index.m3u8?servicetype=1
+http://39.135.138.58:18890/PLTV/88888888/224/3221225752/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV5+ 4M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221225821/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视",CCTV5+ 8M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221225939/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视",CCTV5+ 8M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221226919/index.m3u8?servicetype=1
+http://112.50.243.8/PLTV/88888888/224/3221225821/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV6 8M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221227137/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视",CCTV7 4M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221225805/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视",CCTV7 8M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221225927/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视",CCTV7 8M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221226972/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视",CCTV8 8M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221227174/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视",CCTV9 4M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221225820/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视",CCTV9 7M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221226923/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视",CCTV9 8M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221225929/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视",CCTV10 4M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221225814/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视",CCTV10 8M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221225931/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视",CCTV10 8M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221226976/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视",CCTV11 7M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221225815/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视",CCTV11 8M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221226927/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视",CCTV12 4M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221225816/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视",CCTV12 8M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221225932/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视",CCTV12 8M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221226931/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视",CCTV13 8M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221225817/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视",CCTV13 8M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221226985/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视",CCTV14 4M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221225819/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视",CCTV14 8M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221225933/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视",CCTV14 8M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221227086/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视",CCTV15 7M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221225818/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视",CCTV15 8M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221226989/index.m3u8?servicetype=1
+http://219.151.31.35/liveplay-kk.rtxapp.com/live/program/live/cctv6hd/2300000/mnf.m3u8
+#EXTINF:-1 group-title="央视",CCTV7
+http://112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV8
+http://219.151.31.35/liveplay-kk.rtxapp.com/live/program/live/cctv8hd/2300000/mnf.m3u8
+#EXTINF:-1 group-title="央视",CCTV9
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225820/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV10
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225814/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV11
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV12
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225816/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV13
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV14
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225819/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV15
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV16 4M1080
 http://39.135.55.105:6610/PLTV/88888888/224/3221227148/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视",CCTV16 8M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221227125/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视",CCTV17 4M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221226990/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="央视",CCTV17 7M1080
 http://39.135.55.105:6610/PLTV/88888888/224/3221226986/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="教育",中国教育1 8M1080
