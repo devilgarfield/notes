@@ -241,7 +241,6 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221225889/index.m3u8?servicetype=1
 http://39.135.55.105:6610/PLTV/88888888/224/3221225888/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="NewTV",NewTV金牌综艺 4M1080
 http://39.135.55.105:6610/PLTV/88888888/224/3221225884/index.m3u8?servicetype=1
-
 #EXTINF:-1 group-title="黑莓",黑莓动画 4M1080
 http://39.135.55.105:6610/PLTV/88888888/224/3221225878/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="黑莓",黑莓电影 4M1080
@@ -274,7 +273,6 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221227130/index.m3u8?servicetype=1
 http://39.135.55.105:6610/PLTV/88888888/224/3221227037/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="百视通",百视通电竞 4M1080
 http://39.135.55.105:6610/PLTV/88888888/224/3221227033/index.m3u8?servicetype=1
-
 #EXTINF:-1 group-title="福建",福建乡村振兴公共 8M1080
 http://39.135.55.105:6610/PLTV/88888888/224/3221227153/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="福建",福建少儿 8M1080
@@ -303,7 +301,6 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221226760/index.m3u8?servicetype=1
 http://39.135.55.105:6610/PLTV/88888888/224/3221227066/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="福建",南平2 8M1080
 http://39.135.55.105:6610/PLTV/88888888/224/3221226956/index.m3u8?servicetype=1
-
 #EXTINF:-1 group-title="央视",CCTV1 720
 http://39.135.55.105:6610/PLTV/88888888/224/3221225812/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="央视",CCTV1 720
@@ -406,8 +403,6 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221227214/index.m3u8?servicetype=1
 http://39.135.55.105:6610/PLTV/88888888/224/3221227168/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="卫视",海南三沙卫视 576
 http://39.135.55.105:6610/PLTV/88888888/224/3221227172/index.m3u8?servicetype=1
-
-
 #EXTINF:-1 group-title="百视通",百视通健身 576
 http://39.135.55.105:6610/PLTV/88888888/224/3221227044/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="百视通",百视通动漫 576
